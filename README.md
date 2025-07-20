@@ -1,4 +1,4 @@
-# 🇳🇬 Nigeria Malaria Dashboard (2000–2023)
+# Nigeria Malaria Dashboard (2000–2023)
 
 This project is a complete Power BI dashboard that analyzes malaria incidence in Nigeria between 2000 and 2023 using official data from the World Health Organization (WHO). The purpose is to turn raw data into a visual, story-driven dashboard that supports advocacy, monitoring, and better public health decisions.
 
@@ -75,7 +75,7 @@ Estimate_Gap = [RATE_PER_1000_NU] - [RATE_PER_1000_NL]
 5. Invest in vaccine access and ongoing research to reduce long-term burden.
 
 6.  ## 📊 Dashboard Preview  
-![Nigeria Malaria Analysis Dashboard](https://github.com/Bees-png/nigeria-tb-hiv-dashboard/blob/main/HIV.TB.png.jpg)  
+![Nigeria Malaria Analysis Dashboard](https://github.com/Bees-png/Nigeria-malaria-analysis/blob/main/Malaria%20dashboard.jpg)  
 
 
 ## 📂 Dataset Information
