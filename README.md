@@ -2,17 +2,17 @@
 
 This project is a complete Power BI dashboard that analyzes malaria incidence in Nigeria between 2000 and 2023 using official data from the World Health Organization (WHO). The purpose is to turn raw data into a visual, story-driven dashboard that supports advocacy, monitoring, and better public health decisions.
 
-## 📌 Objective
+## Objective
 To analyze, visualize, and communicate trends in malaria incidence in Nigeria using real-world data and build a professional Power BI dashboard as part of a public health data portfolio.
 
-## 📍 Region Extraction
+## Region Extraction
 The original dataset was global. I filtered it to focus only on Nigeria using the column `GEO_NAME_SHORT` with this logic:
 ```
 GEO_NAME_SHORT = "Nigeria"
 ```
 This allowed for a focused national-level analysis without the distraction of multiple country data.
 
-## 🧮 DAX Calculated Columns (New Columns Created)
+## DAX Calculated Columns (New Columns Created)
 To make the dashboard deeper and more meaningful, I created the following new columns in Power BI using DAX:
 
 **1. Year-over-Year (YoY) % Change**
@@ -95,19 +95,17 @@ Estimate_Gap = [RATE_PER_1000_NU] - [RATE_PER_1000_NL]
 - **WHO Portal** – as the primary data source
 - **Canva (optional)** – to convert PDF dashboard into JPG for preview
 
-## 📁 Files in this Repository
-- `Nigeria_Malaria_Analysis.pbix` – Power BI file (fully editable)
-- `Nigeria_Malaria_Incidence.csv` – Filtered dataset for Nigeria
-- `nigeria-malaria-dashboard.pdf` – Exported dashboard for quick viewing
-- `nigeria-malaria-dashboard.jpg` – Image preview for GitHub and LinkedIn
+##  Files in this Repository
+- ` MALARIA ANALYSIS IN NIGERIA.pbix` – PowerBI file (fully editable)
+- `442CEA8_ALL_LATEST.csv` – Filtered dataset for Nigeria
+- `malaria dashboard.jpg` – Image preview for GitHub and LinkedIn
 
-## 🙋🏽‍♀️ Author
+## Author
 **Blessing Ofili**  
 Public Health Advocate & Healthcare Data Analyst  
-📍 Nigeria  
+Nigeria  
 🔗 LinkedIn: [https://linkedin.com/in/ofili-blessing-2b993a272](https://linkedin.com/in/ofili-blessing-2b993a272)
 
 ---
-
-⭐ If this dashboard was useful or inspiring, feel free to  give it a star, or reach out to collaborate. Together we can use data to power better health outcomes in Nigeria and beyond.
+ If this dashboard was useful or inspiring, feel free to  give it a star, or reach out to collaborate. Together we can use data to power better health outcomes in Nigeria and beyond.
 
