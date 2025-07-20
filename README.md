@@ -5,6 +5,9 @@ This project is a complete Power BI dashboard that analyzes malaria incidence in
 ## Objective
 To analyze, visualize, and communicate trends in malaria incidence in Nigeria using real-world data and build a professional Power BI dashboard as part of a public health data portfolio.
 
+ ## 📊 Dashboard Preview  
+![Nigeria Malaria Analysis Dashboard](https://github.com/Bees-png/Nigeria-malaria-analysis/blob/main/Nigeria%20Malaria%20Dashboard.jpg) 
+
 ## Region Extraction
 The original dataset was global. I filtered it to focus only on Nigeria using the column `GEO_NAME_SHORT` with this logic:
 ```
@@ -72,10 +75,7 @@ Estimate_Gap = [RATE_PER_1000_NU] - [RATE_PER_1000_NL]
 2. Improve health data systems to reduce gaps in malaria estimate accuracy.
 3. Use historical spikes to plan better seasonal interventions.
 4. Increase public education on mosquito net use and early treatment.
-5. Invest in vaccine access and ongoing research to reduce long-term burden.
-
-6.  ## 📊 Dashboard Preview  
-![Nigeria Malaria Analysis Dashboard](https://github.com/Bees-png/Nigeria-malaria-analysis/blob/main/Nigeria%20Malaria%20Dashboard.jpg)  
+5. Invest in vaccine access and ongoing research to reduce long-term burden. 
 
 
 ##  Dataset Information
