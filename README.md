@@ -97,7 +97,7 @@ Estimate_Gap = [RATE_PER_1000_NU] - [RATE_PER_1000_NL]
 ##  Files in this Repository
 - ` MALARIA ANALYSIS IN NIGERIA.pbix` – PowerBI file (fully editable)
 - `442CEA8_ALL_LATEST.csv` – Filtered dataset for Nigeria
-- `malaria dashboard.jpg` – Image preview for GitHub and LinkedIn
+- `Nigeria malaria dashboard.jpg` – Image preview for GitHub and LinkedIn
 
 ## Author
 **Blessing Ofili**  
