@@ -74,6 +74,10 @@ Estimate_Gap = [RATE_PER_1000_NU] - [RATE_PER_1000_NL]
 4. Increase public education on mosquito net use and early treatment.
 5. Invest in vaccine access and ongoing research to reduce long-term burden.
 
+6.  ## 📊 Dashboard Preview  
+![Nigeria Malaria Analysis Dashboard](https://github.com/Bees-png/nigeria-tb-hiv-dashboard/blob/main/HIV.TB.png.jpg)  
+
+
 ## 📂 Dataset Information
 - **Source:** [WHO Global Health Observatory (GHO)](https://www.who.int/data/gho)
 - **Fields used:** 
