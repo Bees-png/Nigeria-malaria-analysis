@@ -88,9 +88,8 @@ Estimate_Gap = [RATE_PER_1000_NU] - [RATE_PER_1000_NL]
   - `RATE_PER_1000_NU` = WHO upper estimate
 - Filter applied: Nigeria only
 
-## 🛠️ Tools Used
+## Tools Used
 - **Power BI Desktop** – for dashboard creation and DAX calculations
-- **Excel** – for quick initial data filtering
 - **GitHub** – for hosting the project and documentation
 - **WHO Portal** – as the primary data source
 - **Canva (optional)** – to convert PDF dashboard into JPG for preview
