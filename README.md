@@ -5,7 +5,7 @@ This project is a complete Power BI dashboard that analyzes malaria incidence in
 ## Objective
 To analyze, visualize, and communicate trends in malaria incidence in Nigeria using real-world data and build a professional Power BI dashboard as part of a public health data portfolio.
 
- ## 📊 Dashboard Preview  
+ ##  Dashboard Preview  
 ![Nigeria Malaria Analysis Dashboard](https://github.com/Bees-png/Nigeria-malaria-analysis/blob/main/Nigeria%20Malaria%20Dashboard.jpg) 
 
 ## Region Extraction
@@ -55,7 +55,7 @@ This shows the difference between WHO’s upper and lower estimate for each year
 Estimate_Gap = [RATE_PER_1000_NU] - [RATE_PER_1000_NL]
 ```
 
-## 📊 Visuals in the Dashboard
+##  Visuals in the Dashboard
 - **KPI Cards** for Highest, Lowest, and Average malaria rates
 - **Line Chart** to show overall trend of malaria from 2000 to 2023
 - **Area Chart** showing WHO’s estimate range (upper vs lower)
@@ -63,14 +63,14 @@ Estimate_Gap = [RATE_PER_1000_NU] - [RATE_PER_1000_NL]
 - **Bar Chart by Decade** showing malaria trends across the 2000s, 2010s, and 2020s
 - **Estimate Gap Chart** showing how confident WHO was each year
 
-## 📈 Key Insights
+##  Key Insights
 - Nigeria’s malaria incidence rate has decreased overall, from over 400 per 1,000 in the early 2000s to below 310 in the 2020s.
 - The highest rates were recorded between 2003 and 2005.
 - Some years (like 2012 and 2020) saw malaria rates rise again.
 - The 2020s showed the best overall average, suggesting improved malaria control.
 - WHO estimates had high uncertainty in years like 2004 and 2005, shown by a wide estimate gap.
 
-## 💡 Recommendations
+## Recommendations
 1. Expand malaria prevention campaigns in high-risk and rural areas.
 2. Improve health data systems to reduce gaps in malaria estimate accuracy.
 3. Use historical spikes to plan better seasonal interventions.
