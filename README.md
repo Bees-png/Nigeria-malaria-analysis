@@ -75,7 +75,7 @@ Estimate_Gap = [RATE_PER_1000_NU] - [RATE_PER_1000_NL]
 5. Invest in vaccine access and ongoing research to reduce long-term burden.
 
 6.  ## 📊 Dashboard Preview  
-![Nigeria Malaria Analysis Dashboard](https://github.com/Bees-png/Nigeria-malaria-analysis/blob/main/Malaria%20dashboard.jpg)  
+![Nigeria Malaria Analysis Dashboard](https://github.com/Bees-png/Nigeria-malaria-analysis/blob/main/Nigeria%20Malaria%20Dashboard.jpg)  
 
 
 ##  Dataset Information
