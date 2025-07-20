@@ -78,7 +78,7 @@ Estimate_Gap = [RATE_PER_1000_NU] - [RATE_PER_1000_NL]
 ![Nigeria Malaria Analysis Dashboard](https://github.com/Bees-png/Nigeria-malaria-analysis/blob/main/Malaria%20dashboard.jpg)  
 
 
-## 📂 Dataset Information
+##  Dataset Information
 - **Source:** [WHO Global Health Observatory (GHO)](https://www.who.int/data/gho)
 - **Fields used:** 
   - `DIM_TIME` = Year
