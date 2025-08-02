@@ -92,7 +92,6 @@ Estimate_Gap = [RATE_PER_1000_NU] - [RATE_PER_1000_NL]
 - **Power BI Desktop** – for dashboard creation and DAX calculations
 - **GitHub** – for hosting the project and documentation
 - **WHO Portal** – as the primary data source
-- **Canva (optional)** – to convert PDF dashboard into JPG for preview
 
 ##  Files in this Repository
 - ` MALARIA ANALYSIS IN NIGERIA.pbix` – PowerBI file (fully editable)
@@ -104,7 +103,4 @@ Estimate_Gap = [RATE_PER_1000_NU] - [RATE_PER_1000_NL]
 Public Health Advocate & Healthcare Data Analyst  
 Nigeria  
 🔗 LinkedIn: [https://linkedin.com/in/ofili-blessing-2b993a272](https://linkedin.com/in/ofili-blessing-2b993a272)
-
----
- If this dashboard was useful or inspiring, feel free to  give it a star, or reach out to collaborate. Together we can use data to power better health outcomes in Nigeria and beyond.
 
